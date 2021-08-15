@@ -1,0 +1,7 @@
+name: PlayerHead
+version: '${project.version}'
+main: riyaya1528.paper.playerhead.PlayerHead
+api-version: 1.17
+commands:
+  head:
+    usage: ""
